@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoTest</string>
+    <string name="relay">Relay</string>
+    <string name="light">Light</string>
+</resources>
